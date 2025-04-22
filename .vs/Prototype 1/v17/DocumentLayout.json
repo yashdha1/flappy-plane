@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\sahil\\onedrive\\desktop\\create with code\\prototype 1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\sahil\\onedrive\\desktop\\create with code\\prototype 1\\assets\\challenge 1\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\challenge 1\\scripts\\endgameoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\endgameoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\challenge 1\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\challenge 1\\scripts\\obstaclepasschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\obstaclepasschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\challenge 1\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\scripts\\infinty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infinty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\assets\\scripts\\roadloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roadloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:45:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObstaclePassChecker.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ObstaclePassChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\ObstaclePassChecker.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ObstaclePassChecker.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\ObstaclePassChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:17:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:16:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\ObstacleSpawner.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:56:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndGameOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\EndGameOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\EndGameOnCollision.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\EndGameOnCollision.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\EndGameOnCollision.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:03:37.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:48:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "infinty.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\infinty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\infinty.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\infinty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\infinty.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:52:30.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoadLoop.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\RoadLoop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoadLoop.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\RoadLoop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoadLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:48:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\sahil\\OneDrive\\Desktop\\Create with Code\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:33:40.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
