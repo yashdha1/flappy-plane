@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class InfiniteObjectSpawner : MonoBehaviour
 {
     public GameObject player;               // Reference to the player
-    public GameObject[] objectsToSpawn;     // Prefabs to spawn (e.g. coins, obstacles)
+    public GameObject[] objectsToSpawn;     
     public float spawnDistance = 50f;       // How far ahead of the player to spawn
     public float despawnDistance = 30f;     // How far behind the player before objects are destroyed
     public float spawnIntervalZ = 10f;      // Distance between spawns on Z axis
@@ -20,16 +20,12 @@ public class InfiniteObjectSpawner : MonoBehaviour
 
     void Update()
     {
-        float playerZ = player.transform.position.z;
-
-        // Spawn new objects ahead of the player
+        float playerZ = player.transform.position.z; 
         while (lastSpawnZ < playerZ + spawnDistance)
         {
             SpawnObject(lastSpawnZ + spawnIntervalZ);
             lastSpawnZ += spawnIntervalZ;
-        }
-
-        // Despawn objects that are far behind the player
+        } 
         for (int i = spawnedObjects.Count - 1; i >= 0; i--)
         {
             if (spawnedObjects[i].transform.position.z < playerZ - despawnDistance)
